@@ -1,5 +1,5 @@
 # DeepLearning_Autonomous_Embedded_Agents
-
+* Install the necessary environments which can be found here https://github.com/llSourcell/How_to_simulate_a_self_driving_car
 * Most of the code is inspired by https://github.com/naokishibuya/car-behavioral-cloning
 
 * To implement AIRSIM, JNET, JNET_ELU or PilotNet use one of 
